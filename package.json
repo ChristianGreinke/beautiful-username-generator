@@ -21,7 +21,8 @@
     "api/flattenedAttributes_15.bin",
     "api/flattenedColors_15.bin",
     "api/flattenedFlowers_22.bin",
-    "api/generator.js"
+    "api/generator.js",
+    "README.md"
   ],
   "bugs": {
     "url": "https://github.com/ChristianGreinke/beautiful-username-generator/issues"
