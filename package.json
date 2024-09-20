@@ -1,6 +1,6 @@
 {
   "name": "beautiful-username-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate random beuatiful usernames",
   "main": "api/generator.js",
   "scripts": {
@@ -17,7 +17,7 @@
   ],
   "author": "Christian Greinke",
   "license": "MIT",
-  "files":[
+  "files": [
     "api/flattenedAttributes_15.bin",
     "api/flattenedColors_15.bin",
     "api/flattenedFlowers_22.bin",
