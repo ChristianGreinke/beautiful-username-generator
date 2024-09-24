@@ -61,6 +61,16 @@ The `gen` function accepts an optional object where you can set the maximum leng
 
 ---
 
+## Some samples
+
+- BiennialMintForgetMeNot
+- FloralPatriarchAnemone
+- LoftyBisqueBletilla
+- ClusteredCoralVerbena
+- LightBoleSilverbush
+- PleasantSinopiaAster
+- GauzyQuartzAbutilon
+
 ## API
 
 ### `generator.gen([options])`
